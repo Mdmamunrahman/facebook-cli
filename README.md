@@ -1,6 +1,6 @@
 pkg update && pkg upgrade
 pkg install python3 git curl
-git clone https://github.com/YOUR_USERNAME/facebook-cli.git
+git clone https://github.com/Mdmamunrahman/facebook-cli.git
 cd facebook-cli
 pip install -r requirements.txt
 python3 facebook_cli.py
